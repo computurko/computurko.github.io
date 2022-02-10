@@ -21,7 +21,7 @@ a {
 }
 
 #navbar #logo {
-  content: url(src/logo.svg);
+  content: url(src/header.svg);
   height: 30px;
   margin-top: 10px;
   margin-left: 10px;
